@@ -3,5 +3,6 @@
 }
 
 .blok {
-    color: grey;
+    background-color: grey;
+    height: 100px;
 }
