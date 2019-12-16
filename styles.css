@@ -10,15 +10,3 @@
     background-color: navy;
     height: 100px;
 }
-
-div {
-    height: 200px;
-    line-height: 200px;
-    text-align: center;
-    border: 2px dashed navy;
-  }
-  span {
-    display: block;
-    vertical-align: middle;
-    line-height: normal;
-  }
