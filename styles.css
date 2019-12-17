@@ -6,6 +6,12 @@
     color: white;
 }
 
+#wrapper
+{
+    width: 1024px;
+    margin: 0 auto;
+}
+
 .blok {
     background-color: brown;
     height: 100px;
@@ -20,13 +26,21 @@
 
 }
 
-.tekst {
-width: 500px;
-display: block;
-
+.text-center
+{
+    text-align: center;
 }
 
 .foto > img {
 height: 400px;
+}
 
+.bovenruimte
+{
+    margin-top: 20px;
+}
+
+.meerbovenruimte
+{
+    margin-top: 50px;
 }
